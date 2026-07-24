@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="mylana">
+<title>mylana</title>
+<defs><linearGradient id="mylana-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6472e0"/><stop offset="1" stop-color="#4650bd"/></linearGradient></defs>
+<rect width="256" height="256" rx="57.6" fill="url(#mylana-g)"/>
+<rect x="55.04" y="133.12" width="35.84" height="66.56" rx="17.92" fill="#fff"/>
+<rect x="110.08" y="97.28" width="35.84" height="102.4" rx="17.92" fill="#fff"/>
+<rect x="165.12" y="56.32" width="35.84" height="143.36" rx="17.92" fill="#fff"/>
+</svg>
